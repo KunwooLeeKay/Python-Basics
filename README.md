@@ -1,2 +1,3 @@
 # Python-Basics
-Files created when learning Python for the first time
+
+from Python basics to RPA, Web Scrapping
